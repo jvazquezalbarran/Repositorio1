@@ -1,0 +1,11 @@
+{
+  "name": "mi-aplicacion",
+  "description": "Una aplicación PHP simple",
+  "require": {
+    "php": "8.4.*"
+  },
+  "platform": {
+    "php": "8.4.0"
+  }
+}
+
