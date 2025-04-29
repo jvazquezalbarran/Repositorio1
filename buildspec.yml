@@ -3,9 +3,9 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      php: 8.4
+      php: 8.3
     commands:
-      - echo "Empezamos la instalación con PHP 8.4"
+      - echo "Empezamos la instalación con PHP 8.3"
   pre_build:
     commands:
       - echo "Empezamos la fase de pre-compilación"
