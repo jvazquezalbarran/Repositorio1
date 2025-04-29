@@ -1,7 +1,7 @@
 {
-  "name": "mi-aplicacion",
+  "name": "usuario/mi-aplicacion",
   "description": "Una aplicación PHP simple",
   "require": {
-    "php": ">=8.4"
+    "php": ">=8.0"
   }
 }
