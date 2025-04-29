@@ -5,14 +5,14 @@ phases:
     runtime-versions:
       php: 8.1
     commands:
-      - echo "Empezamos la instalación con PHP 8.0"
+      - echo "Empezamos la instalación con PHP 8.4"
   pre_build:
     commands:
       - echo "Empezamos la fase de pre-compilación"
   build:
     commands:
       - echo "Vamos a realizar una prueba"
-      - grep -Fq "amigos" index.php
+      - grep -Fq "alumnos" index.php
   post_build:
     commands:
       - echo "Empezamos la fase de post-compilación"
