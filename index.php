@@ -3,7 +3,7 @@
 <title>Tajamar Media</title>
 </head>
 <body>
-<h1 align="center">hasta lo huevos, estudiantes </h1>
+<h1 align="center">Buenas tardes, estudiantes del Master Tajamar</h1>
 <br>
 <div align="center">
 <img src="playa.jpg">
