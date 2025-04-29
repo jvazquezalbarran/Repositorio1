@@ -2,7 +2,7 @@
 <head>
 <title>Tajamar Media</title>
 <style>
-	h1{color:blue;}
+	h1{color:red;}
 </style>
 </head>
 <body>
