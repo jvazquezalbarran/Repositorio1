@@ -6,7 +6,7 @@
 </style>
 </head>
 <body>
-<h1 align="center">Buenas tardes, estudiantes del Master Tajamar</h1>
+<h1 align="center">Buenas noches, estudiantes del Master Tajamar</h1>
 <br>
 <div align="center">
 <img src="playa.jpg">
