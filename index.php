@@ -1,9 +1,6 @@
 <html>
 <head>
 <title>Tajamar Media</title>
-<style>
-	h1{color:green;}
-</style>
 </head>
 <body>
 <h1 align="center">Buenas dias, estudiantes del Master Tajamar</h1>
